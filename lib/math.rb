@@ -7,11 +7,11 @@ end
 def subtraction(num1, num2)
   total = num1 - num2
   puts total
-  return total 
+  return total
 end
 
 def division(num1, num2)
-  total = num1 / num2 
+  total = num1 / num2
   puts total
   return total
 end
@@ -24,7 +24,7 @@ end
 
 def modulo(num1, num2)
   total = num1 % num2
-  puts total 
+  puts total
   return total
 end
 
